@@ -19,4 +19,4 @@ It shows my skills, projects, and contact details in a simple and clean way.
 3. Open `index.html` in your browser
 
 ## Author
-Pooja Yadav
+Ulli Pooja
